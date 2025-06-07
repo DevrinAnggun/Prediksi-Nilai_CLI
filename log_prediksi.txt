@@ -1,0 +1,2 @@
+IPS,20.0,80.0,Tidak Diterima
+IPS,75.0,89.0,Tidak Diterima
